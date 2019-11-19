@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "zaj3-GED", "zaj3-GED\zaj3-GED.dtproj", "{17E0E9A5-989C-40B6-8CA3-60A2D80A4509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E0E9A5-989C-40B6-8CA3-60A2D80A4509}.Development|Default.ActiveCfg = Development
+		{17E0E9A5-989C-40B6-8CA3-60A2D80A4509}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9288945B-281D-4358-ACCB-56AA8A55586E}
+	EndGlobalSection
+EndGlobal
